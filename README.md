@@ -118,4 +118,4 @@ All individuals have the right to participate in cultural life and to enjoy the 
 [back to top][top]
 
 [sub]: https://reddit.com/r/thrival
-[top]: (#contents)
+[top]: #contents
