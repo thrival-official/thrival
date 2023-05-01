@@ -1,4 +1,4 @@
-Quickstart:  🏠 [Thrival Subreddit][sub]   <!--|    📢 [Calls to Action](#)    |    ❓ [What is Thrival](#)-->
+Quickstart:  🏠 [Thrival Subreddit][sub]   |   📖 [Thrival Wiki](https://github.com/thrival-official/thrival/wiki)   <!--|    📢 [Calls to Action](#)    |    ❓ [What is Thrival](#)-->
 
 <!-- visit Linktree for links to socials and support our work via ko-fi -->
 
@@ -18,7 +18,7 @@ Thrival is a community to agitate and educate toward a new western culture. A co
 
 We recognize qualitative results are driven by quantitative changes and build critical mass behind revolutionary enlightenment by growing support behind the following ideas:
 
-+ 🤝 Metamodernism to exceed and include postmodernism for a cultural enlightenment rooted in agonism over antagonism and sincerity over irony.
++ 🤝 [Metamodernism](https://github.com/thrival-official/thrival/wiki/Metamodernism) to exceed and include postmodernism for a cultural enlightenment rooted in agonism over antagonism and sincerity over irony.
 
 + ✅ Economic democracy to exceed and include political democracy for a political enlightenment rooted in positive rights over negative rights and protopia over utopia.
 
