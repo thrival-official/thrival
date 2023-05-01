@@ -79,7 +79,7 @@ All individuals have the right to participate in cultural life and to enjoy the 
 | Community Member | A reader who regularly comments and contributes [subreddit][sub] content |
 | Contributor | Someone who's formally contributed content for Thrival publication |
 | Member | Someone who financially supports Thrival |
-| Tean Member | Someone who is a formal member of the Thrival Committee |
+| Team Member | Someone who is a formal member of the Thrival Committee |
 
 [back to top][top]
 
