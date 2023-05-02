@@ -87,26 +87,16 @@ All individuals have the right to participate in cultural life and to enjoy the 
 
 ## #Roadmap
 
-<details>
-<summary>IN PROGRESS</summary>
-<li>LAUNCH SUBREDDIT</li>
-</details>
-
-<details>
-<summary>TO DO</summary>
-  GITHUB:
-  <li>wiki</li>
-  SUBREDDIT:
-  <li>templates for regular posts</li>
-  OFFLINE:
-  TBD
-</details>
-
-<details>
-<summary>COMPLETE</summary>
-<li>REGISTER SUBREDDIT</li>
-<li>REGISTER SOCIALS</li>
-</details>
+| In-Progress (COMPLETE ASAP)            | Short-Term (ASAP AFTER LAUNCH)                      | Long-Term (AFTER 10K READERS)                                         | TBD           |
+|----------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------|---------------|
+| Publish Styleguide                     | Publish Editorial Committee rules and recruit       | Launch an Exploratory Committee for a formal cadre-based organization | Enlightenment |
+| Publish Content Strategy               | Plan for Zine production                            | Publish guidelines for forming Thrival caucuses in unions/parties     | Revolution    |
+| Publish links to socials               | Plan for regular booklet series                     | Plan for a Thrival Conference                                         |               |
+| Publish ko-fi                          | Launch Thrival telegram for collaboration           |                                                                       |               |
+| Publish Collaborator Code of Conduct   | Launch Thrival discord for general conversation     |                                                                       |               |
+| Publish Subreddit Rules + Automod      | Book Leaders for AMAs                               |                                                                       |               |
+| Launch Subreddit                       | Launch workgroups on trends (AI, crisis prep, etc.) |                                                                       |               |
+| Stockpile OC memes/articles for Launch |                                                     |                                                                       |               |
 
 [back to top][top]
 
